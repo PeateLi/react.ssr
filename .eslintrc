@@ -1,0 +1,12 @@
+{
+  "extends": "standard",
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "ecmaFeatures": {
+      "legacyDecorators": true
+    }
+  },
+  "rules": {
+    "semi": "off"
+  }
+}
